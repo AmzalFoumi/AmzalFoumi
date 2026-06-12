@@ -1,6 +1,6 @@
 # Hi, I'm Amzal 👋
 
-Aspiring Full-stack Engineer | 3rd Year Software Engineering Undergraduate @ SLIIT | AIESECer
+Aspiring Full-stack Engineer | Cloud & DevOps Enthusiast | 3rd Year Software Engineering Undergraduate @ SLIIT | AIESECer | Royalist
 
 I enjoy building things across the stack — from web apps and mobile apps to data analysis and cloud infrastructure. Currently diving deeper into Software Engineering with MERN, DevOps, cloud computing, and developer tooling. 
 
