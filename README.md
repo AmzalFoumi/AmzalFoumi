@@ -20,8 +20,6 @@ I enjoy building things across the stack — from web apps and mobile apps to da
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 **Languages:**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
