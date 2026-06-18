@@ -1,8 +1,16 @@
 # Hi, I'm Amzal 👋
 
-Aspiring Full-stack Engineer | Cloud & DevOps Enthusiast | 3rd Year Software Engineering Undergraduate @ SLIIT | AIESECer | Royalist
+Aspiring Software Engineer | DevOps and Cloud Enthusiast | AIESECer | Royalist
 
-I enjoy building things across the stack — from web apps and mobile apps to data analysis and cloud infrastructure. Currently diving deeper into Software Engineering with MERN, DevOps, cloud computing, and developer tooling. 
+## Engineering scalable solutions, one commit at a time
+
+---
+
+### 🌱 Currently Exploring
+
+- Cloud-native infrastructure (Kubernetes, AWS EKS, Terraform, OpenChoreo)
+- DevOps fundamentals & Linux system administration
+- AI-assisted development workflows
 
 ---
 
@@ -48,14 +56,6 @@ I enjoy building things across the stack — from web apps and mobile apps to da
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
----
-
-### 🌱 Currently Exploring
-
-- Cloud-native infrastructure (Kubernetes, AWS EKS, Terraform, OpenChoreo)
-- DevOps fundamentals & Linux system administration
-- AI-assisted development workflows
 
 ---
 
