@@ -22,7 +22,7 @@ Aspiring Software Engineer | DevOps and Cloud Enthusiast | AIESECer | Royalist
 - **[HabHub](https://github.com/AmzalFoumi/HabHub)** — Habit-tracking Android app (Kotlin)
 - **[ProTrackApp](https://github.com/AmzalFoumi/ProTrackApp)** — Food & gym tracking app UI (Kotlin)
 - **[eda-casino](https://github.com/AmzalFoumi/eda-casino)** — Exploratory data analysis on online casino transaction data (Python/Jupyter) (Work in progress)
-- **[IWT_LifeInsurance_SLIITY1S2](https://github.com/AmzalFoumi/IWT_LifeInsurance_SLIITY1S2)** — Life insurance management system (HTML/CSS/JS)
+- **[IWT_LifeInsurance_SLIITY1S2](https://github.com/AmzalFoumi/IWT_LifeInsurance_SLIITY1S2)** — Life insurance management system (HTML/CSS/JS/PHP). My first ever web development project which taught me a lot. Featuring it here is a matter of reminding me where I started
 
 ---
 
