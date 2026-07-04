@@ -23,7 +23,7 @@ Portfolio website at https://amzal-portfolio.vercel.app
 - **[Distributed Health System](https://github.com/Distributed-Health-System/clinical-services)** — Microservices-based clinical platform (patient, doctor, appointment, telemedicine & notification services), each with its own DB and Dockerfile. I designed the overall architecture, setup GitOps with Docker, Kubernetes, ArgoCD and Github Actions and also worked on the Appointments Microservice while my team worked on the rest of the services. Tinkering with same project currently to implement infrastructure provisioning using Terraform and AWS EKS
 - **[HabHub](https://github.com/AmzalFoumi/HabHub)** — Habit-tracking Android app (Kotlin)
 - **[ProTrackApp](https://github.com/AmzalFoumi/ProTrackApp)** — Food & gym tracking app UI (Kotlin)
-- **[eda-casino](https://github.com/AmzalFoumi/eda-casino)** — Exploratory data analysis on online casino transaction data (Python/Jupyter) (Work in progress)
+- **[aesth-ai](https://github.com/AmzalFoumi/aesth-ai)** — A Beauty care AI Chatbot with database querying tools. Grounded into a smaple catalogue of products. (Demo / WIP)
 - **[IWT_LifeInsurance_SLIITY1S2](https://github.com/AmzalFoumi/IWT_LifeInsurance_SLIITY1S2)** — Life insurance management system (HTML/CSS/JS/PHP). My first ever web development project which taught me a lot. Featuring it here is a matter of reminding me where I started
 
 ---
