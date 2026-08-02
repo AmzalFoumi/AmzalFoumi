@@ -4,7 +4,7 @@ Aspiring Software Engineer | DevOps and Cloud Enthusiast | AIESECer | Royalist
 
 Portfolio website at https://amzal-portfolio.vercel.app
 
-## Engineering scalable solutions, one commit at a time 
+## Engineering scalable solutions, one commit at a time
 
 ---
 
@@ -19,11 +19,12 @@ Portfolio website at https://amzal-portfolio.vercel.app
 ### 🚀 Featured Projects
 
 - **[amzal-portfolio](https://github.com/AmzalFoumi/amzal-portfolio)** — My personal portfolio site. View my work and my CV here [Live →](https://amzal-portfolio.vercel.app)
-- **[aesth-ai](https://github.com/AmzalFoumi/aesth-ai)** — A Beauty care AI Chatbot with database querying tools and semantic searching with RAG. Grounded into a smaple catalogue of products. (Demo / WIP). Attempting to make a model agnostic ai-chat bot that can be integrated to work with different types of models reading data from different types of Content Management Systems (ex: Payload)  [Live →](https://aesth-ai-hazel.vercel.app/)
-- **[itinerary_ai](https://github.com/AmzalFoumi/itinerary_ai)** — AI-powered travel itinerary planner with built in Social Media and Event/Hotel booking capabilities (TypeScript). I Worked on the Social Media module with Rich Media posts, Comments, Likes, and simple Friendship and Privacy system
-- **[Distributed Health System](https://github.com/Distributed-Health-System/clinical-services)** — Microservices-based clinical platform (patient, doctor, appointment, telemedicine & notification services), each with its own DB and Dockerfile. I designed the overall architecture, setup GitOps with Docker, Kubernetes, ArgoCD and Github Actions and also worked on the Appointments Microservice while my team worked on the rest of the services. Tinkering with same project currently to implement infrastructure provisioning using Terraform and AWS EKS
+- **[agentic-erp](https://github.com/AmzalFoumi/agentic-erp)** — A supermarket inventory & purchasing system where the business logic is written once and reused by two front doors: a FastAPI HTTP API for a Next.js manager UI, and an MCP server exposing the same operations as tools an AI agent can call. (Work in Progress)
+- **[aesth-ai](https://github.com/AmzalFoumi/aesth-ai)** — A beauty-care AI chatbot (TypeScript) with database querying tools and RAG semantic search over a sample product catalogue. Built to be model-agnostic and CMS-agnostic (e.g. Payload). Demo / WIP [Live →](https://aesth-ai-hazel.vercel.app/)
+- **[itinerary_ai](https://github.com/AmzalFoumi/itinerary_ai)** — AI-powered travel itinerary planner with built in Social Media and Event/Hotel booking capabilities (TypeScript). I worked on the Social Media module with Rich Media posts, Comments, Likes, and simple Friendship and Privacy system
+- **[Distributed Health System](https://github.com/Distributed-Health-System/clinical-services)** — Microservices-based clinical platform (patient, doctor, appointment, telemedicine & notification services), each with its own DB and Dockerfile. I designed the overall architecture, set up GitOps with Docker, Kubernetes, ArgoCD and GitHub Actions and also worked on the Appointments Microservice while my team worked on the rest of the services. Tinkering with the same project currently to implement infrastructure provisioning using Terraform and AWS EKS
 - **[HabHub](https://github.com/AmzalFoumi/HabHub)** — Habit-tracking Android app (Kotlin)
-- **[ProTrackApp](https://github.com/AmzalFoumi/ProTrackApp)** — Food & gym tracking app UI (Kotlin)
+<!-- - **[ProTrackApp](https://github.com/AmzalFoumi/ProTrackApp)** — Food & gym tracking app UI (Kotlin) -->
 - **[IWT_LifeInsurance_SLIITY1S2](https://github.com/AmzalFoumi/IWT_LifeInsurance_SLIITY1S2)** — Life insurance management system (HTML/CSS/JS/PHP). My first ever web development project which taught me a lot. Featuring it here is a matter of reminding me where I started
 
 ---
@@ -60,7 +61,6 @@ Portfolio website at https://amzal-portfolio.vercel.app
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 ---
 
 ### 📫 Connect with me
@@ -70,5 +70,3 @@ Portfolio website at https://amzal-portfolio.vercel.app
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohamedamzal6)
 
 ---
-
-
