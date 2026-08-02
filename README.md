@@ -13,23 +13,28 @@ Portfolio website at https://amzal-portfolio.vercel.app
 - Cloud-native infrastructure (Kubernetes, AWS EKS, Terraform, OpenChoreo)
 - DevOps fundamentals & Linux system administration
 - AI-assisted development workflows
+- Agentic AI Implementations for business requirements
 
 ---
 
 ### 🚀 Featured Projects
 
 - **[amzal-portfolio](https://github.com/AmzalFoumi/amzal-portfolio)** — My personal portfolio site. View my work and my CV here [Live →](https://amzal-portfolio.vercel.app)
+
 - **[agentic-erp](https://github.com/AmzalFoumi/agentic-erp)** — A supermarket inventory & purchasing system where the business logic is written once and reused by two front doors: a FastAPI HTTP API for a Next.js manager UI, and an MCP server exposing the same operations as tools an AI agent can call. (Work in Progress)
+
 - **[aesth-ai](https://github.com/AmzalFoumi/aesth-ai)** — A beauty-care AI chatbot (TypeScript) with database querying tools and RAG semantic search over a sample product catalogue. Built to be model-agnostic and CMS-agnostic (e.g. Payload). Demo / WIP [Live →](https://aesth-ai-hazel.vercel.app/)
+
 - **[itinerary_ai](https://github.com/AmzalFoumi/itinerary_ai)** — AI-powered travel itinerary planner with built in Social Media and Event/Hotel booking capabilities (TypeScript). I worked on the Social Media module with Rich Media posts, Comments, Likes, and simple Friendship and Privacy system
+
 - **[Distributed Health System](https://github.com/Distributed-Health-System/clinical-services)** — Microservices-based clinical platform (patient, doctor, appointment, telemedicine & notification services), each with its own DB and Dockerfile. I designed the overall architecture, set up GitOps with Docker, Kubernetes, ArgoCD and GitHub Actions and also worked on the Appointments Microservice while my team worked on the rest of the services. Tinkering with the same project currently to implement infrastructure provisioning using Terraform and AWS EKS
 - **[HabHub](https://github.com/AmzalFoumi/HabHub)** — Habit-tracking Android app (Kotlin)
-<!-- - **[ProTrackApp](https://github.com/AmzalFoumi/ProTrackApp)** — Food & gym tracking app UI (Kotlin) -->
+
 - **[IWT_LifeInsurance_SLIITY1S2](https://github.com/AmzalFoumi/IWT_LifeInsurance_SLIITY1S2)** — Life insurance management system (HTML/CSS/JS/PHP). My first ever web development project which taught me a lot. Featuring it here is a matter of reminding me where I started
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Experience
 
 **Languages:**
 
@@ -41,24 +46,47 @@ Portfolio website at https://amzal-portfolio.vercel.app
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools:**
+**Frontend:**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**Backend:**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI & Agents:**
+
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+
+**Databases:**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Platforms & Services:**
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
 **Cloud & DevOps:**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
