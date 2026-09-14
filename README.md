@@ -1,6 +1,6 @@
 # Hi, I'm Amzal 👋
 
-Aspiring Software Engineer | DevOps and Cloud Enthusiast | AIESECer | Royalist
+Software Engineer | Full-stack, Cloud & Agentic AI | 2x AWS Certified | Engineering scalable solutions one commit at a time
 
 Portfolio website at https://amzal-portfolio.vercel.app
 
